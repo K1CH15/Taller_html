@@ -1,0 +1,28 @@
+
+#tabla {
+  padding: 40 px;    
+  }
+
+#evento {
+
+  text-align: center;
+ 
+}
+.viñetas{
+  list-style: circle;
+}
+
+.color_de_fondo_tabla{
+
+  background-color: #92e8cb;
+
+}
+
+.Caja_Buscar{
+  width: 600px;
+  height:40px;
+  right: 10px;
+  margin: 10px;
+
+  border :solid 1px gray;
+}
